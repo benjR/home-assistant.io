@@ -83,7 +83,7 @@ Warning: The probability entities data are not always provided by the API. They 
 <div class='note warning'>
 
   The 1 hour rain forecast is supported for more than 75 % of metropolitan France.<br/>
-  You can check if your city is covered on the [Météo-France website](https://www.meteofrance.com/previsions-meteo-france/previsions-pluie).
+  You can check if your city is covered on the [Météo-France website](https://www.meteofrance.com/).
 
 </div>
 
